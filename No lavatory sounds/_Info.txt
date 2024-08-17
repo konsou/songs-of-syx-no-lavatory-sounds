@@ -1,0 +1,7 @@
+VERSION: "1.0.0",
+GAME_VERSION_MAJOR: 66,
+GAME_VERSION_MINOR: 49,
+NAME: "No lavatory sounds",
+DESC: "Removes lavatory sounds.",
+AUTHOR: "konso",
+INFO: "",
